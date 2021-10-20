@@ -84,4 +84,30 @@ Three methods to prevent catastrophic forgetting basically: (1) modify the onlin
 
 **[Paper]** : https://arxiv.org/pdf/1810.11910.pdf
 
+
+
+#### Other miscellaneous including continual learning or knowledge distillation
+
+##### Dialogue Distillation: Open-Domain Dialogue Augmentation Using Unpaired Data
+
+**[Paper]** : https://arxiv.org/pdf/2009.09427.pdf
+
+Including some of the knowledge distillation methods to pair dialogues and expand dataset size
+
+##### Continual Learning for Natural Language Generation in Task-oriented Dialog Systems
+
+**[Paper]** : https://arxiv.org/pdf/2010.00910.pdf
+
+**[Repo]** : https://github.com/MiFei/Continual-Learning-for-NLG/blob/master/model/cvae.py
+
+Seemingly utilized  and implemented using CVAE
+
+##### Meta-Learning for Low-resource Natural Language Generation in Task-oriented Dialogue Systems
+
+**[Paper]** : https://arxiv.org/pdf/1905.05644.pdf
+
+domain adaption work
+
+
+
 ###### By Shuning Zhang and Zhen Zhang, CopyRight 2021
