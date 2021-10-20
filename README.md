@@ -108,6 +108,24 @@ Seemingly utilized  and implemented using CVAE
 
 domain adaption work
 
+##### Selective Replay Enhances Learning in Online Continual Analogical Reasoning
+
+**[Paper]** : 
+
+**[Repo]** : https://github.com/tyler-hayes/Continual-Analogical-Reasoning
+
+1) regularizing the plasticity of weights [4, 15, 16, 18, 48, 51, 53, 67, 74, 85].
+2) growing the network architecture to accommodate new data [35, 41, 60, 69, 84], and 
+3) maintaining a subset of previous data in a memory buffer or generating previous data to replay when new data becomes available [9, 13, 16, 20, 2]
+
+
+
+##### Stratified Rule-Aware Network for Abstract Visual Reasoning
+
+**[Paper]** : https://arxiv.org/pdf/2002.06838.pdf
+
+
+
 
 
 ###### By Shuning Zhang and Zhen Zhang, CopyRight 2021
